@@ -1,1 +1,1 @@
-print('hello pratik kale')
+print('hello')
